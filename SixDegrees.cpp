@@ -1,12 +1,3 @@
-/* Jake Kroner
- * SixDegrees.cpp
- * COMP15
- * Fall 2018
- *
- * Implementation of the SixDegrees class
- *
- */
-
 #include "SixDegrees.h"
 #include "Queue.h"
 
