@@ -1,12 +1,3 @@
-/* Jake Kroner
- * Graph.cpp
- * COMP15
- * Fall 2018
- *
- * Implementation of the template Graph class
- *
- */
-
 #include <iostream>
 #include "Graph.h"
 #include "Stack.h"
