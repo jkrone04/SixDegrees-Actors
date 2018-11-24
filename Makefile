@@ -13,6 +13,3 @@ graphtest: test-graph.o Graph.o Actor.o LinkedList.o Queue.o Stack.o
 
 clean:
 	rm -f *.o core* *~ sixdegrees, graphtest
-
-provide:
-	provide comp15 hw5 main.cpp Makefile Graph.h Graph.cpp Actor.h Actor.cpp SixDegrees.h SixDegrees.cpp test-graph.cpp README
