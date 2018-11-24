@@ -1,10 +1,3 @@
-/*
- * Filename: Stack.h
- * Contains: Interface for template stack class 
- * Part of: Homework 5 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include <exception>
 #include "NodeType.h"
 using namespace std;
