@@ -1,10 +1,5 @@
-/* Jake Kroner
- * main.cpp
- * COMP15
- * Fall 2018
- *
- * Driver for HW5
- *
+/*
+ * Driver
  */
 
 #include <iostream>
