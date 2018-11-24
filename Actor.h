@@ -1,12 +1,3 @@
-/* Jake Kroner
- * Actor.h
- * COMP15
- * Fall 2018
- *
- * Interface of the Actor class
- *
- */
-
 #include <iostream>
 #include <ostream>
 #include <string>
