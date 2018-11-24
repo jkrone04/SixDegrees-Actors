@@ -1,10 +1,3 @@
-/*
- * Filename: Graph.h
- * Contains: Interface of the template Graph class 
- * Part of: Lab 9 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include "Queue.h"
 #include <iostream>
 #include <ostream>
@@ -12,10 +5,6 @@
 #ifndef GRAPH_H_
 #define GRAPH_H_
 
-// A good way to handle errors is with exceptions
-// This class has a couple of them for common errors
-// In this case we have one when there is no memory to 
-// allocate and when someone does an invalid operation 
 class FullGraph : public exception {
 public:
   const char *what() const throw() { return "My graph is full";}
