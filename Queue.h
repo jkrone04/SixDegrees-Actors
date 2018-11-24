@@ -1,10 +1,3 @@
-/*
- * Filename: Queue.h
- * Contains: Interface for (template) queue class 
- * Part of: Homework 5 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include <iostream>
 #include "NodeType.h"
 using namespace std;
