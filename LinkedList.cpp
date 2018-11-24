@@ -1,10 +1,3 @@
-/*
- * Filename: LinkedList.cpp
- * Contains: Implementation of the template LinkedList class 
- * Part of: Homework 5 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include <iostream>
 #include <string>
 #include "LinkedList.h"
