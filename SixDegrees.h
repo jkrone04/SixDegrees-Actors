@@ -1,12 +1,3 @@
-/* Jake Kroner
- * SixDegrees.h
- * COMP15
- * Fall 2018
- *
- * Interface of the SixDegrees class
- *
- */
-
 #include <iostream>
 #include <ostream>
 #include <fstream>
