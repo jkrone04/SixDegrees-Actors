@@ -1,12 +1,3 @@
-/* Jake Kroner
- * Actor.cpp
- * COMP15
- * Fall 2018
- *
- * Implementation of the Actor class
- *
- */
-
 #include <iostream>
 #include "Actor.h"
 
