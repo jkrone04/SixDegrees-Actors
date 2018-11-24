@@ -1,10 +1,3 @@
-/*
- * Filename: Stack.cpp
- * Contains: Implementation for template stack class 
- * Part of: Homework 5 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include <cstddef>
 #include <new>
 #include <string>
