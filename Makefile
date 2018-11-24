@@ -1,8 +1,3 @@
-# Jake Kroner
-# COMP15
-# Fall 2018
-# Makefile for Trie
-
 CC = clang++
 CFLAGS = -Wall -Wextra -c -std=c++11
 DEPS = SixDegrees.h Graph.h Actor.h LinkedList.h Queue.h Stack.h
