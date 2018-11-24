@@ -1,10 +1,3 @@
-/*
- * Filename: Queue.cpp
- * Contains: Implementation for queue class (template class) 
- * Part of: Homework 5 assignment "Graph Traversal" for Comp 15 Fall 2018
- *
- */
-
 #include <cstddef>
 #include <new>
 #include "Queue.h"
